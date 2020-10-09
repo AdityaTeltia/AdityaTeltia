@@ -7,9 +7,9 @@
 - 🔭 Eager to learn
 
 ### Connect with me:
-[<img align="left" alt="TeltiaAditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](https://twitter.com/TeltiaAditya)
-[<img align="left" alt="aditya-teltia-a9a7731b4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/aditya-teltia-a9a7731b4/)
-[<img align="left" alt="adityateltia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com/adityateltia/?hl=en)
+[<img align="left" alt="TeltiaAditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TeltiaAditya)
+[<img align="left" alt="aditya-teltia-a9a7731b4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aditya-teltia-a9a7731b4/)
+[<img align="left" alt="adityateltia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/adityateltia/?hl=en)
 
 <br />
 
@@ -33,6 +33,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="AdityaTeltia's GitHub Stats" src="https://github-readme-stats.AdityaTeltia.vercel.app/api?username=AdityaTeltia&show_icons=true&hide_border=true" />
+  <img align="left" alt="AdityaTeltia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaTeltia&show_icons=true&hide_border=true" />
 
 </details>

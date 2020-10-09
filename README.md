@@ -6,8 +6,10 @@
 - ⚡ Mastering c++ is my current goal 
 - 🔭 Eager to learn
 
-### Spotify Playing
-[![Spotify](https://AdityaTeltia.vercel.app/api/spotify)](https://open.spotify.com/user/314izjetwctp4ni7hzgzztx4mowa)
+### Spotify Playing 🎧
+
+[<img src="https://novatorem.adityateltia.vercel.app//api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/314izjetwctp4ni7hzgzztx4mowa)
+
 
 ### Connect with me:
 [<img align="left" alt="TeltiaAditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TeltiaAditya)

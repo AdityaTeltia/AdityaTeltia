@@ -1,8 +1,8 @@
 ### Hi there , I'm Aditya 👋
 
-## I'm a Developer , Learner and will soon be a youtuber
+## I'm a Developer , Learner 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Mastering c++ is my current goal 
 - 🔭 Eager to learn
 

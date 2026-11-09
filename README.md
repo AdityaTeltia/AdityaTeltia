@@ -10,10 +10,10 @@ Senior Software Engineer at **Sprinklr**, working on search infrastructure, dist
 
 ### Stack
 
-**Languages:** Java, Python, TypeScript, C++
-**Data:** Elasticsearch / OpenSearch, Kafka, MongoDB, Redis
-**Backend:** Spring Boot, Node.js
-**Infra:** Docker, Kubernetes, Jenkins
+- **Languages:** Java, Python, TypeScript, C++
+- **Data:** Elasticsearch / OpenSearch, Kafka, MongoDB, Redis
+- **Backend:** Spring Boot, Node.js
+- **Infra:** Docker, Kubernetes, Jenkins
 
 ### Currently
 
